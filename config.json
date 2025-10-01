@@ -1,0 +1,8 @@
+{
+   "proxy_pass": "http://localhost:3000/", 
+   "private_key": "Z+string=", 
+   "external_ip": "127.0.0.1", 
+   "listen_ip": "0.0.0.0", 
+   "network_config_url": "https://ton.org/global.config.json", 
+   "port": 11706
+}
